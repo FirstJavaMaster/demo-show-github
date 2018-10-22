@@ -7,3 +7,6 @@
 *.ipr
 
 target
+
+### lombok-access-modifier-warning ###
+!lombok-access-modifier-warning/.idea
